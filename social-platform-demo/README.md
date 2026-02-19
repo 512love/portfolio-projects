@@ -1,0 +1,2 @@
+In this quick demo I made of a social application, I used Flutter and Python Django to create a sample. My main focus is not on programming skills and the rationalization that this entails, but rather on my ability to apply new technologies in different areas of technology.
+I would also like to highlight my use of these skills and the social behavior capabilities I gained from studying UX and creating apps with a social focus.

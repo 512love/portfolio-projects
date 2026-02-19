@@ -1,0 +1,2 @@
+This is a spreadsheet that uses the Poisson model to calculate probabilities in sporting events. It was created as an experiment to test our ability to analyze data and metrics.
+With this, I want to demonstrate my ability to read statistics and metrics, my advanced use of tools such as Excel and Google Sheets, and my efficient curiosity for carrying out innovative projects.
